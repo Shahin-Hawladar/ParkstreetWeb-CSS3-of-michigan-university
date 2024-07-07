@@ -1,0 +1,56 @@
+body {
+  backgrownd-color: #e3dede;
+  font-family: Poppins, Railway, 'F A', 'Times New Roman', Times, serif, Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Arial, sans-serif, 'Abril Fatface', 'Clement Numbers', 'Didone Room Numbers', cursive;
+  font-size: 160%;
+}
+
+header {
+  background-color: #e5d5c5;
+  font-size: 130%;
+  font-family: 'Abril Fatface', 'Clement Numbers', 'Didone Room Numbers', cursive;
+}
+
+nav {
+  bacground-color: #2d17d9;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+  background-color: #cbf0ad;
+  font-size: 180%;
+}
+
+footer {
+  background-color: #3201f4;
+  font-size: 120%;
+  color: #e3dede;;
+}
+
+li {
+  display: inline;
+  background-color: #1399ec;
+  width: 80%;
+  padding: 3px, 2px;
+}
+
+h1 {
+  color: #010646;
+  text-align: center;
+  font-family: 'Abril Fatface', 'Clement Numbers', 'Didone Room Numbers', cursive;
+}
+
+h2 {
+  color: #a05f03;
+}
+
+section{
+  background-color: #bcdeaf;
+}
+p {
+  backgrown-color: #e3dede;
+}
+
+img{
+  visibility: hidden;
+  /* display: none; */
+}
